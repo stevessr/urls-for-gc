@@ -92,3 +92,16 @@ snap.genshin
 <url>https://github.com/DGP-Studio/Snap.Genshin</url>
 release
 <url>https://github.com/DGP-Studio/Snap.Genshin/release</url>
+
+
+
+
+MongoDB
+<url>https://www.mongodb.com/try/download</url>
+<url>https://www.mongodb.com/download-center/community/releases</url>
+
+mitmproxy
+<url>https://mitmproxy.org/</url>
+
+python
+<url>https://www.python.org/downloads/</url>
